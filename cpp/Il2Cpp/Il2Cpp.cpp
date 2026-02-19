@@ -2,7 +2,6 @@
 #include <dlfcn.h>
 #include <unistd.h>
 #include <android/log.h>
-#include <map>
 
 #define LOG_TAG "XYZ-I2Cpp"
 
